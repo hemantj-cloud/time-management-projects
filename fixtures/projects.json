@@ -1,0 +1,112 @@
+{
+  "projects": [
+    {
+      "id": "proj-website-redesign",
+      "name": "Website Redesign",
+      "description": "Refresh the marketing website with a new layout, updated design system and faster pages.",
+      "category": "design",
+      "tags": ["web", "ui", "redesign"],
+      "status": "active",
+      "priority": "high",
+      "plannedHours": 40,
+      "deadline": "2026-12-15",
+      "imageUrl": "https://images.unsplash.com/photo-1501163109389-abf37ca1276a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwcmVkZXNpZ24lMjBsYXB0b3AlMjBkZXNpZ24lMjB3b3Jrc3BhY2V8ZW58MXwwfHx8MTc5NTA4NDIzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-mobile-app-wireframes",
+      "name": "Mobile App Wireframes",
+      "description": "Low and high fidelity wireframes for the iOS and Android onboarding flow.",
+      "category": "design",
+      "tags": ["mobile", "ux", "wireframes"],
+      "status": "active",
+      "priority": "high",
+      "plannedHours": 24,
+      "deadline": "2026-12-04",
+      "imageUrl": "https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBVSSUyMGRlc2lnbiUyMHBob25lJTIwd2lyZWZyYW1lc3xlbnwxfDB8fHwxNzk1MDg0MjM0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-brand-identity-refresh",
+      "name": "Brand Identity Refresh",
+      "description": "Update logo variants, colour palette and typography guidelines for the new brand identity.",
+      "category": "design",
+      "tags": ["brand", "logo", "identity"],
+      "status": "active",
+      "priority": "medium",
+      "plannedHours": 30,
+      "deadline": "2026-12-20",
+      "imageUrl": "https://images.unsplash.com/photo-1782916678908-f1aaac77f713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxicmFuZCUyMGlkZW50aXR5JTIwbG9nbyUyMGRlc2lnbiUyMHN0dWRpb3xlbnwxfDB8fHwxNzk1MDg0MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-q4-marketing-campaign",
+      "name": "Q4 Marketing Campaign",
+      "description": "Plan and launch the end-of-year campaign across email, social and paid channels.",
+      "category": "marketing",
+      "tags": ["campaign", "social", "email"],
+      "status": "active",
+      "priority": "high",
+      "plannedHours": 36,
+      "deadline": "2026-12-10",
+      "imageUrl": "https://images.unsplash.com/photo-1607703703520-bb638e84caf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmclMjBjYW1wYWlnbiUyMHBsYW5uaW5nJTIwd2hpdGVib2FyZHxlbnwxfDB8fHwxNzk1MDg0MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-data-pipeline-monitor",
+      "name": "Data Pipeline Monitor",
+      "description": "Build dashboards and alerts for the nightly ingestion pipeline.",
+      "category": "engineering",
+      "tags": ["data", "monitoring", "alerts"],
+      "status": "active",
+      "priority": "medium",
+      "plannedHours": 50,
+      "deadline": "2027-01-15",
+      "imageUrl": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxkYXRhJTIwcGlwZWxpbmUlMjBjb2RlJTIwbW9uaXRvciUyMGRhcmt8ZW58MXwwfHx8MTc5NTA4NDIzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-backend-api-migration",
+      "name": "Backend API Migration",
+      "description": "Move legacy REST endpoints to the new service layer with versioned routes.",
+      "category": "engineering",
+      "tags": ["api", "backend", "migration"],
+      "status": "planning",
+      "priority": "low",
+      "plannedHours": 60,
+      "deadline": "2027-02-01",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGRldmVsb3BlcnMlMjB0ZWFtJTIwY29kaW5nJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTUwODQyMzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-annual-report-layout",
+      "name": "Annual Report Layout",
+      "description": "Typeset and lay out the annual report, including charts and print-ready PDF export.",
+      "category": "design",
+      "tags": ["print", "report", "layout"],
+      "status": "completed",
+      "priority": "low",
+      "plannedHours": 16,
+      "deadline": "2026-11-10",
+      "imageUrl": "https://images.unsplash.com/photo-1707299650048-46495b525d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxhbm51YWwlMjByZXBvcnQlMjBkb2N1bWVudCUyMGxheW91dCUyMHByaW50ZWQlMjBwYWdlc3xlbnwxfDB8fHwxNzk1MDg0MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "proj-team-onboarding-docs",
+      "name": "Team Onboarding Docs",
+      "description": "Write onboarding guides, checklists and recorded walkthroughs for new hires.",
+      "category": "operations",
+      "tags": ["docs", "onboarding", "hr"],
+      "status": "paused",
+      "priority": "low",
+      "plannedHours": 12,
+      "deadline": "2026-12-31",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwb25ib2FyZGluZyUyMG1lZXRpbmclMjBkb2N1bWVudGF0aW9uJTIwbm90ZXN8ZW58MXwwfHx8MTc5NTA4NDIzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "timeLog": [
+    { "id": "log-001", "projectId": "proj-website-redesign", "minutes": 120, "date": "2026-11-16", "note": "Wireframe review" },
+    { "id": "log-002", "projectId": "proj-q4-marketing-campaign", "minutes": 60, "date": "2026-11-16", "note": "Campaign brief" },
+    { "id": "log-003", "projectId": "proj-website-redesign", "minutes": 90, "date": "2026-11-17", "note": "Homepage hero layout" },
+    { "id": "log-004", "projectId": "proj-mobile-app-wireframes", "minutes": 75, "date": "2026-11-17", "note": "Onboarding flow sketches" },
+    { "id": "log-005", "projectId": "proj-brand-identity-refresh", "minutes": 45, "date": "2026-11-18", "note": "Colour palette options" },
+    { "id": "log-006", "projectId": "proj-data-pipeline-monitor", "minutes": 120, "date": "2026-11-18", "note": "Alert thresholds" },
+    { "id": "log-007", "projectId": "proj-website-redesign", "minutes": 60, "date": "2026-11-19", "note": "Design system tokens" },
+    { "id": "log-008", "projectId": "proj-q4-marketing-campaign", "minutes": 30, "date": "2026-11-19", "note": "Email copy draft" },
+    { "id": "log-009", "projectId": "proj-mobile-app-wireframes", "minutes": 90, "date": "2026-11-20", "note": "High fidelity screens" },
+    { "id": "log-010", "projectId": "proj-data-pipeline-monitor", "minutes": 60, "date": "2026-11-20", "note": "Dashboard panels" }
+  ]
+}

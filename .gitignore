@@ -1,0 +1,12 @@
+.env
+node_modules/
+src/widgets/node_modules/
+.nitrostudio/
+.venv/
+.python/
+.python-cache/
+__pycache__/
+
+/dist/
+/src/widgets/.next/
+/src/widgets/out/
